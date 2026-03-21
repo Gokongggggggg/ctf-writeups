@@ -22,21 +22,17 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 22
-          cache: npm
-          cache-dependency-path: quartz/package-lock.json
 
       - name: Install deps
-        working-directory: quartz
         run: npm install
 
       - name: Build Quartz
-        working-directory: quartz
         run: npx quartz build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: quartz/public
+          path: public
 
   deploy:
     needs: build
