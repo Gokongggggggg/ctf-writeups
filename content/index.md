@@ -32,6 +32,7 @@
 
 #### Very Easy
 - [[HTB-CHL/PWN/Very-Easy/1.-Racecar]]
+- [[2. Vault-breaker]]
 #### Easy
 - *Coming soon*
 
