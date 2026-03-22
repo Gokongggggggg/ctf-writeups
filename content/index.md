@@ -1,5 +1,8 @@
 # CTF Writeups
 
+---
+## PicoCTF 2026
+
 ## Reverse Engineering (Rev)
 - [1.GateKeeper](/PicoCTF-2026---Write-Up/Rev/1.-GateKeeper)
 - [2.Hidden Cipher 1](/PicoCTF-2026---Write-Up/Rev/2.-Hidden-Cipher-1)
@@ -22,3 +25,15 @@
 - [6.Offset Cycle](PicoCTF-2026---Write-Up/Inex/6.-Offset-Cycle)
 - [7.Offset Cycle V2](/PicoCTF-2026---Write-Up/Inex/7.-Offset-Cycle-V2)
 - [8.Pizza Router](/PicoCTF-2026---Write-Up/Inex/8.-Pizza-Router)
+
+## HackTheBox Challenges
+
+### PWN
+
+#### Very Easy
+- [[HTB-Challenges/Pwn/Very-Easy/Racecar]]
+#### Easy
+- *Coming soon*
+
+#### Medium
+- *Coming soon*
