@@ -1,16 +1,16 @@
-Dynamic linking = library tidak diikutsertakan saat proses compile, melainkan hanya disimpan sebagai referensi. Library tersebut akan dicari dan di-load saat program dijalankan (runtime).
+Dynamic linking = libraries are not included during the compilation process, but only referenced. These libraries are located and loaded at runtime when the program is executed.
 
-Static linking = library diikutsertakan langsung ke dalam binary saat proses compile, sehingga program tidak membutuhkan library eksternal saat dijalankan.
+Static linking = libraries are directly included into the binary during compilation, so the program does not require external libraries at runtime.
 
-## Contoh
+## Example
 
-Misalnya program menggunakan fungsi `printf` dari libc:
+Suppose a program uses the `printf` function from libc:
 
 - **Dynamic linking**  
-  Binary tidak menyimpan isi `printf`, tetapi akan mengambilnya dari `libc.so` saat runtime.
+  The binary does not contain the actual `printf` implementation, but instead loads it from `libc.so` at runtime.
 
 - **Static linking**  
-  Binary sudah menyimpan `printf` di dalamnya sejak compile, jadi bisa langsung dijalankan tanpa butuh `libc` dari sistem.
+  The binary already contains `printf` at compile time, so it can run independently without requiring `libc` from the system.
 
 ## When we know a binary is statically or dynamically linked, what information can we derive from it?
 
@@ -28,13 +28,13 @@ Misalnya program menggunakan fungsi `printf` dari libc:
 >
 > In contrast, if the binary uses [[Static Linking]], all libraries are already included during compile time, so no external dependencies are needed.
 
-> [!info]- more advance
-> Beyond just running the binary, this information can also be useful for more advanced analysis, such as identifying possible exploitation paths:
-> - ret2libc
-> - GOT / PLT hijacking
+> [!info]- more advance  
+> Beyond just running the binary, this information can also be useful for more advanced analysis, such as identifying possible exploitation paths:  
+> - ret2libc  
+> - GOT / PLT hijacking  
 >
-> ⚠️ **Note (belum paham):**
-> - ret2libc → belum paham
-> - GOT / PLT → belum paham
+> ⚠️ **Note (not yet understood):**  
+> - ret2libc → not yet understood  
+> - GOT / PLT → not yet understood  
 >
-> (akan dipelajari dan diupdate nanti)
+> (will be studied and updated later)
