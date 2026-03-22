@@ -31,7 +31,7 @@
 ### PWN
 
 #### Very Easy
-- [[HTB-Challenges/Pwn/Very-Easy/Racecar]]
+- [[HTB-CHL/PWN/Very-Easy/1.-Racecar]]
 #### Easy
 - *Coming soon*
 
