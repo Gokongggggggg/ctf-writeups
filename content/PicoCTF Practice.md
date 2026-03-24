@@ -1,38 +1,37 @@
-
 ## Reverse Engineering
 
 ### Easy
-- [1. GateKeeper](PicoCTF-Practice/Rev/Easy/1. GateKeeper)
-- [2. Hidden Cipher 1](PicoCTF-Practice/Rev/Easy/2. Hidden Cipher 1)
-- [3. Hidden Cipher 2](PicoCTF-Practice/Rev/Easy/3. Hidden Cipher 2)
-- [4. Bypassme](PicoCTF-Practice/Rev/Easy/4. Bypassme)
-- [5. The add-on trap](PicoCTF-Practice/Rev/Easy/5. The add-on trap)
-- [6. Silent Stream](PicoCTF-Practice/Rev/Easy/6. Silent Stream)
-- [7. Auto rev 1](PicoCTF-Practice/Rev/Easy/7. Auto rev 1)
-- [8. Secure password DB](PicoCTF-Practice/Rev/Easy/8. Secure password DB)
+- [1. GateKeeper](/PicoCTF-Practice/Rev/Easy/1. GateKeeper)
+- [2. Hidden Cipher 1](/PicoCTF-Practice/Rev/Easy/2. Hidden Cipher 1)
+- [3. Hidden Cipher 2](/PicoCTF-Practice/Rev/Easy/3. Hidden Cipher 2)
+- [4. Bypassme](/PicoCTF-Practice/Rev/Easy/4. Bypassme)
+- [5. The add-on trap](/PicoCTF-Practice/Rev/Easy/5. The add-on trap)
+- [6. Silent Stream](/PicoCTF-Practice/Rev/Easy/6. Silent Stream)
+- [7. Auto rev 1](/PicoCTF-Practice/Rev/Easy/7. Auto rev 1)
+- [8. Secure password DB](/PicoCTF-Practice/Rev/Easy/8. Secure password DB)
 
 ### Medium
-- [9. Bin ins 3](PicoCTF-Practice/Rev/Medium/9. Bin ins 3)
-- [10. Bin Ins 4](PicoCTF-Practice/Rev/Medium/10. Bin Ins 4)
+- [9. Bin ins 3](/PicoCTF-Practice/Rev/Medium/9. Bin ins 3)
+- [10. Bin Ins 4](/PicoCTF-Practice/Rev/Medium/10. Bin Ins 4)
 
 ### Hard
-- [11. JIFTP](PicoCTF-Practice/Rev/Hard/11. JIFTP)
+- [11. JIFTP](/PicoCTF-Practice/Rev/Hard/11. JIFTP)
 
 ---
 
 ## Binex
 
 ### Easy
-- [1. QuizPlot](PicoCTF-Practice/Inex/Easy/1. QuizPlot)
-- [2. Echo Escape 1](PicoCTF-Practice/Inex/Easy/2. Echo Escape 1)
-- [3. Echo Escape 2](PicoCTF-Practice/Inex/Easy/3. Echo Escape 2)
-- [4. Teacash](PicoCTF-Practice/Inex/Easy/4. Teacash)
-- [5. Heap Havoc](PicoCTF-Practice/Inex/Easy/5. Heap Havoc)
-- [6. Offset Cycle](PicoCTF-Practice/Inex/Easy/6. Offset Cycle)
-- [7. Offset Cycle V2](PicoCTF-Practice/Inex/Easy/7. Offset Cycle V2)
+- [1. QuizPlot](/PicoCTF-Practice/Inex/Easy/1. QuizPlot)
+- [2. Echo Escape 1](/PicoCTF-Practice/Inex/Easy/2. Echo Escape 1)
+- [3. Echo Escape 2](/PicoCTF-Practice/Inex/Easy/3. Echo Escape 2)
+- [4. Teacash](/PicoCTF-Practice/Inex/Easy/4. Teacash)
+- [5. Heap Havoc](/PicoCTF-Practice/Inex/Easy/5. Heap Havoc)
+- [6. Offset Cycle](/PicoCTF-Practice/Inex/Easy/6. Offset Cycle)
+- [7. Offset Cycle V2](/PicoCTF-Practice/Inex/Easy/7. Offset Cycle V2)
 
 ### Medium
 - *Coming soon*
 
 ### Hard
-- [8. Pizza Router](PicoCTF-Practice/Inex/Hard/8. Pizza Router)
+- [8. Pizza Router](/PicoCTF-Practice/Inex/Hard/8. Pizza Router)
