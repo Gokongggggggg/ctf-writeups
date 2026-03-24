@@ -3,7 +3,7 @@
 ### Easy
 - [1. GateKeeper](/PicoCTF-Practice/Rev/Easy/1.-GateKeeper)
 - [2. Hidden Cipher 1](/PicoCTF-Practice/Rev/Easy/2.-Hidden-Cipher-1)
-- [3. Hidden Cipher 2](/PicoCTF-Practice/Rev/Easy/3.-Hidden-CIpher-2)
+- [3. Hidden Cipher 2](/PicoCTF-Practice/Rev/Easy/3.-Hidden-Cipher-2)
 - [4. Bypassme](/PicoCTF-Practice/Rev/Easy/4.-Bypassme)
 - [5. The add-on trap](/PicoCTF-Practice/Rev/Easy/5.-The-add-on-trap)
 - [6. Silent Stream](/PicoCTF-Practice/Rev/Easy/6.-Silent-Stream)
